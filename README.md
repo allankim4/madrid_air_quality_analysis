@@ -9,3 +9,5 @@ This project is to utilize machine learning algorithms to classify the status of
 ### Randon Forest
 
 Random Forest from scikit learn library was utilized to conduct a prelimanary analysis on the data. The next iteration on the model was putting weights and conducting a K-Fold cross validation.
+
+PCA was also implemented to determine the features that affect the classification of cases.
